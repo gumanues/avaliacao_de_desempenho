@@ -1,0 +1,28 @@
+
+.navbar {
+    background: linear-gradient(to right, #13293D, #006494);
+}
+body {
+    background: linear-gradient(to bottom, #E8F1F2, white);
+}
+.footer {
+    background: linear-gradient(to left, #13293D, #13293D);
+}
+.botao {
+    background-color: #13293D;
+    color: white;
+    transition: background-color 2s; 
+}
+.botao:hover {
+    background-color: #006494;
+}
+.btn {
+    transition: background-color 1s; 
+}
+.btn:hover {
+    background-color: #006494;
+}
+
+.modal-body {
+    background: linear-gradient(to bottom, #E8F1F2, white);
+}

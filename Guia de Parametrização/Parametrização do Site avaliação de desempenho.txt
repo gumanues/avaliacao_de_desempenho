@@ -1,0 +1,20 @@
+Valores: 2,6,39    Parâmetro: Estatísticas - Retém nome do avaliado com login de Gerência na avaliação líderes da pagina (avaliacoes_lideres.php)
+
+Valores: 1         Parâmetro: Estatísticas - Retém nome de avaliado na avaliações usuários da página (avaliacoes_usuarios.php)
+
+Valores: 2         Parâmetro: Avaliações Colaboradores - Usuários com acesso de gerência para aparecerem na auto-avaliação dos colaboradores da página (colaboradores.php)
+
+Valores: 43        Parâmetro: Acesso Especial - Acesso gerênte especial, usuários comuns como gerência de pessoa específica da pagina (gerencia.php)
+
+Valores: 4         Parâmetro: Acesso Especial - Usuários destinado a avaliação do gerênte especial, depende do parâmetro 4 na página (gerencia.php)
+
+Valores: 2,4,6,39  Parâmetro: Avaliação Gerência - Retem nome de avaliado às *Avaliações da Gerência* na página (gerencia.php) e (lider-gerencia.php)
+
+Valores: 6         Parâmetro: Auto-avaliação Coordenadores - Retem acesso coordenador de realizar a auto-avaliação, *para terceiros* na página (lider-colaboradores.php)
+
+Valores: 1,43      Parâmetro: Avaliação Gerência - Concede acesso total à Avaliação *Gerência avalia competência liderança* na pagina (log-lider.php)
+
+Valores: 1         Parâmetro: Avaliação Gerência - Concede acesso parcial à Avaliação *Gerência avalia competências gerais* na página (log-lider.php)
+
+Valores: 1,2,39    Parâmetro: Estatísticas - Concede acesso às avaliações na página (log-lider.php)
+  
